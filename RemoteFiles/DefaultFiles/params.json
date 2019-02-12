@@ -1,0 +1,5 @@
+{
+  "samplerate":20000, 
+  "sign":-1,
+  "adjacency_radius":200
+}
